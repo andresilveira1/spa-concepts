@@ -126,7 +126,7 @@ button:hover {
 @media (max-width: 500px) {
   nav {
     margin-left: 2rem;
-    gap: 1rem;
+    gap: 1.5rem;
   }
 
   .universe,
