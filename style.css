@@ -123,7 +123,7 @@ button:hover {
   }
 }
 
-@media (min-width: 540px) {
+@media (max-width: 500px) {
   nav {
     margin-left: 2rem;
     gap: 1rem;
